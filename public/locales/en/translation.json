@@ -1,0 +1,30 @@
+{
+  "global": {
+    "profile": "Profile",
+    "edit": "Edit",
+    "delete": "Delete",
+    "create": "Create",
+    "settings": "Settings"
+  },
+  "pages": {
+    "timer": "Timer",
+    "projects": "Projects",
+    "clients": "Clients",
+    "organization": "Organization",
+    "report": "Report"
+  },
+  "auth": {
+    "login": "Log in",
+    "logout": "Log out",
+    "backToLogin": "Back to login",
+    "forgotPassword": "Forgot password?",
+    "resetPassword": "Reset password",
+    "resetPasswordEmailSent": "Reset password email sent"
+  },
+  "addProjectModal": {
+    "title": "Create project"
+  },
+  "errors": {
+    "apiError": "This can be an error with your internet connection or an error in our system. Please reload and try again."
+  }
+}
